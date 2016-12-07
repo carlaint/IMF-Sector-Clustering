@@ -1,4 +1,8 @@
-# sector-cluster
-Macroeconomic sectoral clustering
+# Sectors and Clusters
+Utilizing machine learning techniques in discovering new things about the global economy.
 
-The idea is to look for country clusters in different sectors of the economy.
+Current projects:
+
+**Beyond Income: A New Structural Classification of the World**
+Project description: An unsupervised ML algorithm to classify the countries of the world.
+Link to project (https://github.com/carlaint/sector-cluster/blob/master/Sectors%20and%20Clusters.ipynb)
